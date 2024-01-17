@@ -1,0 +1,14 @@
+.contenedor {
+    text-align: center;
+}
+
+
+.contenedor div { 
+    display: inline-block;
+    font-size: 70px;
+    line-height: 70px;
+    background-color:black;
+    color: white;
+    padding: 15px;
+   
+}

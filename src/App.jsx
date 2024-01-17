@@ -1,8 +1,11 @@
 import React from 'react';
+import SimpleCounter from './componentes/counter';
 
 const App = () => {
     return (
-        <h1>REACT APP</h1>
+        <>
+        <SimpleCounter/>
+        </>
     )
 }
 
